@@ -40,6 +40,7 @@
 		4CEDD45C158F83780097DF5F /* DetailTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CAD0E1011DA03BD0086F5F8 /* DetailTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4CEDD45D158F83830097DF5F /* NSString+HTML.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C65F316120863F800606CFC /* NSString+HTML.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4CEDD45E158F83880097DF5F /* NSDate+InternetDateTime.h in Headers */ = {isa = PBXBuildFile; fileRef = 4C661F42125E3F2D007F1792 /* NSDate+InternetDateTime.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4CEDD4FA158F89AC0097DF5F /* DetailTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CAD0E1111DA03BD0086F5F8 /* DetailTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -384,6 +385,7 @@
 				4CEDD450158F7F1B0097DF5F /* NSString+XMLEntities.m in Sources */,
 				4CEDD44F158F7F190097DF5F /* GTMNSString+HTML.m in Sources */,
 				4CEDD44E158F7F160097DF5F /* NSDate+InternetDateTime.m in Sources */,
+				4CEDD4FA158F89AC0097DF5F /* DetailTableViewController.m in Sources */,
 				4CEDD44B158F7EF80097DF5F /* MWFeedInfo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -527,6 +529,7 @@
 				4CEDD447158F7EE30097DF5F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "MWFeedParser" */ = {
 			isa = XCConfigurationList;
